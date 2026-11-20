@@ -26,6 +26,10 @@ Abra o painel no jogo e habilite somente os recursos que deseja utilizar. Os pai
 
 O addon é um projeto independente e não é uma ferramenta oficial do YggIdle. A versão distribuída é ofuscada; a ofuscação dificulta a leitura, mas não impede a recuperação ou análise do código.
 
+## Histórico de alterações
+
+Consulte o [changelog](CHANGELOG.md) para acompanhar as mudanças de cada versão publicada.
+
 ## Problemas
 
 Para relatar um erro ou sugerir melhorias, abra uma [issue](https://github.com/Rizakhh/yggaddons/issues) informando a versão do addon, navegador, situação e, se possível, uma captura de tela.
