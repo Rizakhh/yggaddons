@@ -43,7 +43,9 @@ Se essa opção não aparecer, volte à lista de extensões e ative **Modo do de
 
 ## Atualizações
 
-O Tampermonkey pode verificar e instalar atualizações conforme as configurações da extensão. Além disso, o addon consulta a release pública mais recente do GitHub e, quando detecta uma versão superior à instalada, exibe um aviso com acesso à página de releases. A consulta ocorre ao abrir o jogo e depois periodicamente enquanto a página permanecer aberta. Falhas de conexão ou limites da API podem impedir temporariamente o aviso; o funcionamento do addon continua e o Tampermonkey mantém sua própria verificação.
+O Tampermonkey pode verificar e instalar atualizações conforme as configurações da extensão. A partir da versão 1.0.35, o addon verifica a versão publicada ao iniciar. Se houver uma versão mais recente, ele fica bloqueado e mostra um link para instalá-la. Após instalar, atualize a página do jogo.
+
+Se a verificação não puder ser feita, o addon permanece bloqueado e mostra uma opção para tentar novamente. O jogo continua acessível. Versões anteriores à 1.0.35 precisam ser atualizadas uma vez para receber esse comportamento.
 
 As versões disponíveis e seus arquivos estão na [página de releases](https://github.com/Rizakhh/yggaddons/releases).
 

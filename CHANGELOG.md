@@ -2,6 +2,14 @@
 
 As alterações publicadas do RizakH Addons serão registradas neste arquivo.
 
+## [1.0.35] - 2026-11-21
+
+### Atualização obrigatória
+
+- Antes de iniciar, o addon verifica a versão publicada no repositório.
+- Quando há versão mais recente, o addon fica bloqueado e oferece o link de instalação.
+- Se a versão não puder ser verificada, o aviso permite tentar novamente.
+
 ## [1.0.34] - 2026-11-21
 
 ### Monstros e privacidade
@@ -43,3 +51,5 @@ Esta publicação registra a versão existente; não representa uma lista comple
 [1.0.33]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.33
 
 [1.0.34]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.34
+
+[1.0.35]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.35
