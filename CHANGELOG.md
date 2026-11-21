@@ -2,6 +2,15 @@
 
 As alterações publicadas do RizakH Addons serão registradas neste arquivo.
 
+## [1.0.36] - 2026-11-21
+
+### Atualização e distribuição
+
+- Verifica a versão também ao reabrir o painel ou restaurar painéis destacados.
+- Ao detectar uma versão antiga ou falha de verificação na reabertura, recarrega a página e mostra o aviso de bloqueio antes de iniciar o addon.
+- Limita os avisos de estilo gerados pela ofuscação no editor, mantendo as demais verificações.
+- Corrige a versão exibida no painel.
+
 ## [1.0.35] - 2026-11-21
 
 ### Atualização obrigatória
@@ -53,3 +62,5 @@ Esta publicação registra a versão existente; não representa uma lista comple
 [1.0.34]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.34
 
 [1.0.35]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.35
+
+[1.0.36]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.36
