@@ -53,6 +53,10 @@ Abra o painel no jogo e habilite somente os recursos que deseja utilizar. Os pai
 
 O addon é um projeto independente e não é uma ferramenta oficial do YggIdle. A versão distribuída é ofuscada; a ofuscação dificulta a leitura, mas não impede a recuperação ou análise do código.
 
+## Privacidade
+
+As configurações e métricas do addon são armazenadas localmente no navegador de cada jogador e não são incluídas no instalador. Para verificar atualizações, o addon consulta a API pública do GitHub sem enviar cookies ou métricas; o GitHub ainda recebe os dados normais de conexão, como o endereço IP. Recursos que interagem com o jogo usam a própria conexão do jogador com o YggIdle.
+
 ## Histórico de alterações
 
 Consulte o [changelog](CHANGELOG.md) para acompanhar as mudanças de cada versão publicada.

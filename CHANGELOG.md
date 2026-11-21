@@ -2,13 +2,20 @@
 
 As alterações publicadas do RizakH Addons serão registradas neste arquivo.
 
+## [1.0.34] - 2026-11-21
+
+### Monstros e privacidade
+
+- Mostra o tempo da sessão no mapa junto das taxas de abates.
+- Usa valores neutros e detecção automática de taxas para novas instalações, sem incluir ajustes pessoais na distribuição.
+
 ## [1.0.33] - 2026-11-21
 
 ### Taxas de EXP e drops
 
 - Mostra os bônus atuais de EXP base e classe quando o jogo disponibiliza os detalhes, preservando os ganhos reais já recebidos.
 - A previsão de drops aceita taxa total com casas decimais e oferece leitura automática dos bônus informados pelo jogo, com valor manual de reserva.
-- Considera 209,5% como taxa total inicial informada pelo jogador, equivalente a 2,095 vezes a chance base.
+- A taxa total pode ser ajustada manualmente, sem somar novamente a taxa base.
 
 ## [1.0.32] - 2026-11-21
 
@@ -34,3 +41,5 @@ Esta publicação registra a versão existente; não representa uma lista comple
 [1.0.32]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.32
 
 [1.0.33]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.33
+
+[1.0.34]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.34

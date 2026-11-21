@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RizakH Addons
 // @namespace    https://jogo.yggidle.com.br/
-// @version      1.0.33
+// @version      1.0.34
 // @homepageURL  https://github.com/Rizakhh/yggaddons
 // @supportURL   https://github.com/Rizakhh/yggaddons/issues
 // @updateURL    https://raw.githubusercontent.com/Rizakhh/yggaddons/main/RizakH-Addons.meta.js
