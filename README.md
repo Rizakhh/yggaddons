@@ -57,7 +57,7 @@ O addon é um projeto independente e não é uma ferramenta oficial do YggIdle. 
 
 ## Privacidade
 
-As configurações e métricas do addon são armazenadas localmente no navegador de cada jogador e não são incluídas no instalador. Para verificar atualizações, o addon consulta a API pública do GitHub sem enviar cookies ou métricas; o GitHub ainda recebe os dados normais de conexão, como o endereço IP. Recursos que interagem com o jogo usam a própria conexão do jogador com o YggIdle.
+As configurações e métricas do addon são armazenadas localmente no navegador de cada jogador e não são incluídas no instalador. Para verificar atualizações, o addon consulta os metadados públicos do repositório no GitHub sem enviar cookies ou métricas; o GitHub ainda recebe os dados normais de conexão, como o endereço IP. Recursos que interagem com o jogo usam a própria conexão do jogador com o YggIdle.
 
 ## Histórico de alterações
 
