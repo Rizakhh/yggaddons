@@ -4,15 +4,42 @@ Um conjunto de recursos para personalizar e acompanhar suas sessões no [YggIdle
 
 Entre os recursos estão opções de caça e alcance, Kite, contadores de abates, acompanhamento de EXP e Chaos, DPS e dano sofrido. Alguns recursos dependem das informações disponíveis durante a sessão; as estimativas não garantem resultados. As opções de Kite protegidas exigem a senha fornecida pelo autor.
 
-## Instalação
+## Instalação passo a passo
 
-1. Instale a extensão **Tampermonkey** pelo [site oficial](https://www.tampermonkey.net/) ou pela [Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
-2. No Chrome, abra `chrome://extensions/`; no Brave, abra `brave://extensions/`. Encontre o Tampermonkey e clique em **Detalhes**.
-3. Ative **Permitir scripts de usuário**. Se essa opção não aparecer na sua versão do navegador, ative o **Modo do desenvolvedor** na página de extensões. Os nomes e a disponibilidade podem variar conforme o navegador e a versão; consulte as [instruções oficiais do Tampermonkey](https://www.tampermonkey.net/faq.php?locale=pt_BR&q=Q209).
-4. Clique em **[Instalar RizakH Addons](https://raw.githubusercontent.com/Rizakhh/yggaddons/main/RizakH-Addons.user.js)**. Na página aberta pelo Tampermonkey, confirme em **Instalar**. Se o código aparecer como texto, confira se a extensão está ativa e se a permissão do passo anterior foi habilitada.
-5. Abra ou atualize o [YggIdle](https://jogo.yggidle.com.br/) e acesse o painel do addon. Use **Alt + F5** para abrir ou restaurar a interface.
+Este guia usa Chrome como referência. No Brave, os passos são semelhantes; textos e posições podem variar entre versões.
 
-Se você já usava uma cópia anterior sem atualização pelo GitHub, instale novamente pelo link acima para associá-la ao endereço de atualização. Confirme a substituição no Tampermonkey, se solicitado.
+### 1. Instale e ative o Tampermonkey
+
+1. Abra a [página oficial do Tampermonkey na Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) ou escolha seu navegador no [site oficial](https://www.tampermonkey.net/).
+2. Clique em **Usar no Chrome** ou **Adicionar ao Chrome** e confirme em **Adicionar extensão**. No Brave, confirme a instalação quando o navegador solicitar.
+3. Abra o menu de **Extensões** (ícone de peça de quebra-cabeça) e fixe o Tampermonkey se desejar. Ele deve estar ativado no gerenciador de extensões.
+
+### 2. Permita scripts de usuário
+
+1. Digite `chrome://extensions/` na barra de endereços do Chrome ou `brave://extensions/` no Brave e pressione **Enter**.
+2. Encontre **Tampermonkey**. Confira se a extensão está ativada e clique em **Detalhes**. Você também pode clicar com o botão direito no ícone da extensão e escolher **Gerenciar extensão**, como na imagem oficial:
+
+![Menu do Tampermonkey e opção Gerenciar extensão, imagem oficial](https://www.tampermonkey.net/images/manage_extension.jpg)
+
+3. Na página de detalhes, ative **Permitir scripts de usuário** (ou **Allow User Scripts**). Esta opção é separada da chave que ativa a extensão.
+
+![Opção de permitir scripts de usuário, imagem oficial do Tampermonkey](https://www.tampermonkey.net/images/userscripts_toggle.png)
+
+Se essa opção não aparecer, volte à lista de extensões e ative **Modo do desenvolvedor** no canto superior. Os nomes e as opções variam conforme o navegador; veja o [guia oficial de permissões](https://www.tampermonkey.net/faq.php?locale=pt_BR&q=Q209).
+
+### 3. Instale o RizakH Addons
+
+1. Com o Tampermonkey ativo, clique em **[Instalar RizakH Addons](https://raw.githubusercontent.com/Rizakhh/yggaddons/main/RizakH-Addons.user.js)**.
+2. O Tampermonkey deve abrir uma página de instalação. Confira o nome **RizakH Addons** e clique em **Instalar**. Se já houver uma cópia com o mesmo nome, pode aparecer **Reinstalar** ou **Atualizar**; confirme para receber também os endereços de atualização.
+
+![Ilustração da tela de instalação do script, com o botão Instalar](docs/instalar-script.svg)
+
+*Imagem ilustrativa: a tela e os nomes dos botões podem variar conforme a versão do Tampermonkey.*
+
+3. Clique no ícone do Tampermonkey e abra o **Painel**. Confira se **RizakH Addons** aparece na lista e está ativado. Caso não esteja, ative a chave ao lado do script.
+4. Abra ou atualize o [YggIdle](https://jogo.yggidle.com.br/). Use **Alt + F5** para abrir ou restaurar a interface do addon.
+
+**Se o link mostrar apenas código:** confirme que o Tampermonkey está ativado, confira a permissão de scripts de usuário e tente novamente. Confira também se o navegador não está bloqueando a extensão na página. Para scripts instalados anteriormente sem o endereço do GitHub, reinstale pelo link acima.
 
 ## Atualizações
 
