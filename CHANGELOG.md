@@ -2,6 +2,13 @@
 
 As alterações publicadas do RizakH Addons serão registradas neste arquivo.
 
+## [1.0.37] - 2026-11-21
+
+### Interface
+
+- A bolinha do addon minimizado tem borda mais visível e pode ser arrastada para outra posição.
+- A posição é salva, e um arraste não abre o painel acidentalmente.
+
 ## [1.0.36] - 2026-11-21
 
 ### Atualização e distribuição
@@ -64,3 +71,5 @@ Esta publicação registra a versão existente; não representa uma lista comple
 [1.0.35]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.35
 
 [1.0.36]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.36
+
+[1.0.37]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.37
