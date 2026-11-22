@@ -2,6 +2,14 @@
 
 As alterações publicadas do RizakH Addons serão registradas neste arquivo.
 
+## [1.0.38] - 2026-11-21
+
+### Monstros do mapa
+
+- Separa abates da sessão atual e o total acumulado, inclusive por espécie.
+- Adiciona opção para reiniciar apenas a sessão sem apagar o total do mapa.
+- Mantém MVPs e chefes no topo da lista.
+
 ## [1.0.37] - 2026-11-21
 
 ### Interface
@@ -73,3 +81,5 @@ Esta publicação registra a versão existente; não representa uma lista comple
 [1.0.36]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.36
 
 [1.0.37]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.37
+
+[1.0.38]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.38
