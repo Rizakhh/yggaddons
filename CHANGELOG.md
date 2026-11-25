@@ -2,6 +2,13 @@
 
 As alterações publicadas do RizakH Addons serão registradas neste arquivo.
 
+## [1.0.41] - 2026-11-25
+
+### HP do alvo
+
+- Barra de HP flutuante sem caixa de fundo, com nome, valores e percentual em uma linha.
+- A barra pode ser arrastada e redimensionada, com posição e tamanho salvos no navegador.
+
 ## [1.0.40] - 2026-11-25
 
 ### Chat
@@ -102,3 +109,5 @@ Esta publicação registra a versão existente; não representa uma lista comple
 [1.0.39]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.39
 
 [1.0.40]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.40
+
+[1.0.41]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.41
