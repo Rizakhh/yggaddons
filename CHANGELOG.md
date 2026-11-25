@@ -2,6 +2,13 @@
 
 As alterações publicadas do RizakH Addons serão registradas neste arquivo.
 
+## [1.0.40] - 2026-11-25
+
+### Chat
+
+- Oculta as linhas padrão de EXP de monstros enquanto EXP no chat ou Chaos no chat estiver habilitado.
+- Preserva avisos de sistema, mensagens de missão e mensagens do próprio addon.
+
 ## [1.0.39] - 2026-11-25
 
 ### Interface e combate
@@ -93,3 +100,5 @@ Esta publicação registra a versão existente; não representa uma lista comple
 [1.0.38]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.38
 
 [1.0.39]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.39
+
+[1.0.40]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.40
