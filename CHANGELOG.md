@@ -2,6 +2,14 @@
 
 As alterações publicadas do RizakH Addons serão registradas neste arquivo.
 
+## [1.0.39] - 2026-11-25
+
+### Interface e combate
+
+- Janelas destacadas podem ser redimensionadas pelas bordas e cantos.
+- Opção para mostrar no chat local os ganhos de EXP de base e classe, agrupados por segundo.
+- Opção para mostrar uma barra e os dados de HP do alvo recebidos do jogo; HP desconhecido é indicado como indisponível.
+
 ## [1.0.38] - 2026-11-21
 
 ### Monstros do mapa
@@ -83,3 +91,5 @@ Esta publicação registra a versão existente; não representa uma lista comple
 [1.0.37]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.37
 
 [1.0.38]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.38
+
+[1.0.39]: https://github.com/Rizakhh/yggaddons/releases/tag/v1.0.39
